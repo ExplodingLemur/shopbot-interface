@@ -1,0 +1,17 @@
+Cmp-Mod V01 Created by Cvpcb (2014-08-05 BZR 5054)-product   date = Thu 20 Aug 2015 05:14:56 PM PDT
+
+BeginCmp
+TimeStamp = /55D51A5A;
+Reference = J1;
+ValeurCmp = DB25;
+IdModule  = Connect:DB25MC;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D51AFE;
+Reference = J2;
+ValeurCmp = DB37;
+IdModule  = My Library:DB37MC;
+EndCmp
+
+EndListe
